@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "092fe8c9-56c3-4c24-8716-824a79d9fc49",
+		"name": "testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47098517",
+		"_collection_link": "https://docking-module-administrator-41371007-4429739.postman.co/workspace/resumeBuilderProject~d5681f75-260f-450a-902c-8b4ee01831d3/collection/47098517-092fe8c9-56c3-4c24-8716-824a79d9fc49?action=share&source=collection_link&creator=47098517"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
